@@ -1,6 +1,10 @@
 # HashiCorp-Vault
 HashiCorp Security Automation-Manage Secrets and Protect Sensitive Data on Cloud Platforms!
 
+1. [HashiCorp Security Automation Certification](#hashicorp-security-automation-certification)
+2. [HashiCorp Essential Links](#hashicorp-essential-links)
+3. [Vault Trainings and Workshops](#vault-trainings-and-workshops)
+
 ## HashiCorp Security Automation Certification
 1. [Exam Objective](https://www.hashicorp.com/certification/vault-associate)
 2. [Study Guide](https://learn.hashicorp.com/tutorials/vault/associate-study)
