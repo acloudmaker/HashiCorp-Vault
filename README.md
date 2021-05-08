@@ -18,4 +18,6 @@ HashiCorp Security Automation-Manage Secrets and Protect Sensitive Data on Cloud
 ## Vault Trainings and Workshops
 1. [PluralSight Course-Hashicorp Certified Vault Associate: Getting Started by Ned Bellavance](https://app.pluralsight.com/library/courses/hashicorp-certified-vault-associate-getting-started/table-of-contents)
    * [GitHub Code](https://github.com/ned1313/Hashicorp-Certified-Vault-Associate-Getting-Started)
-2. [Vault Associate Prep by ChrisMatteson](https://www.youtube.com/watch?v=3U0nSn56v8g&ab_channel=ChrisMatteson)
+2. [HashiCorp Certified Vault Associate: Vault Management by Ned Bellavance](https://app.pluralsight.com/library/courses/hashicorp-certified-vault-associate-vault-management/table-of-contents)
+   * [GitHub Code](https://github.com/ned1313/Hashicorp-Certified-Vault-Associate-Vault-Management) 
+4. [Vault Associate Prep by ChrisMatteson](https://www.youtube.com/watch?v=3U0nSn56v8g&ab_channel=ChrisMatteson)
